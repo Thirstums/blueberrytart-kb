@@ -3,6 +3,6 @@
 ## This is a test
 
 
-[links](/test.md)
+[links](main/test.md)
 
 - What are the possibilities?
