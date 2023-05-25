@@ -14,3 +14,8 @@
 
 - [OpenAI](https://platform.openai.com/docs/introduction)
 - [SpotifyAPI](https://developer.spotify.com/)
+
+
+## Markdown
+
+- [Guide](https://www.markdownguide.org/basic-syntax/)
