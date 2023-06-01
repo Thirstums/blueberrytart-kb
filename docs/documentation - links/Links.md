@@ -5,7 +5,8 @@
 - [Docusaurus](https://docusaurus.io/docs)
 - [Next.js](https://nextjs.org/docs)
 - [Angular](https://angular.io/docs)
-- [React](https://legacy.reactjs.org/docs/getting-started.html)
+- [React (Outdated)](https://legacy.reactjs.org/docs/getting-started.html)
+- [React](https://react.dev/blog/2023/03/16/introducing-react-dev)
 - [Ionic](https://ionicframework.com/docs)
 
 
