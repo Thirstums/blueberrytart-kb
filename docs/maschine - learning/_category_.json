@@ -1,9 +1,9 @@
 {
-    "label": "Knowledge - MaschineLearning",
+    "label": "Knowledge - AI",
     "position": 4,
     "link": {
       "type": "generated-index",
-      "description": "5 minutes to learn the most important Docusaurus concepts."
+      "description": "Everything I've learned about AI"
     }
   }
   
