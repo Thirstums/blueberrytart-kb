@@ -2,6 +2,9 @@
 title: Daily Journal - BLS
 ---
 -------------
+
+
+### Fri, 16th June:
 ### Thu, 15th June: 
 > #### Goals Today: 
 > - [x] Learn more about Conditional Rendering and Rendering lists
